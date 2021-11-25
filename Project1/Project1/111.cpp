@@ -50,11 +50,17 @@ using namespace std;
 //	}
 //	return num;
 //}
-
+//
+//
+//int main()
+//{
+//	cout<<integerReplacement(65535)<<endl;
+//
+//	return 0;
+//}
 
 int main()
 {
-	cout<<integerReplacement(65535)<<endl;
 
 	return 0;
 }
